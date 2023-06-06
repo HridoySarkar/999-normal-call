@@ -1,0 +1,39 @@
+.page-width{
+    max-width: 1400px;
+    margin: auto;
+}
+
+.logo-size{
+    height: auto;
+    width: 80px;
+}
+
+.navbar{
+    background-color: #00004A !important;
+}
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: #fff;
+}
+.vh80{
+    height: 90vh;
+    width: 100%;
+}
+.bg-gg {
+    background: #581e1e;
+    padding: 40px;
+    background-blend-mode: overlay;
+}
+
+.bg-clor{
+    background: #5079a3;
+    padding: 40px;
+}
+
+.a-link-color a{
+    color: #fff;
+}
+
+#searchResult{
+    padding: 5px 5px;
+    color: #ffffff;
+}
